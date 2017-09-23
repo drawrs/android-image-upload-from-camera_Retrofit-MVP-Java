@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/L-Appor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/color-v23/abc_tint_default.xml"
+    }
+]

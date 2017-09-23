@@ -1,0 +1,7 @@
+#Sat Sep 23 11:44:54 WIB 2017
+base.0=/home/khilman/Documents/L-Appor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6847eb5b33f6c368a476ac2a3592308840674c71
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Documents/L-Appor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82177e3403364c239ac8c23355c22256a6892565/classes.dex
+base.1=/home/khilman/Documents/L-Appor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82177e3403364c239ac8c23355c22256a6892565
+file.0=/home/khilman/Documents/L-Appor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6847eb5b33f6c368a476ac2a3592308840674c71/classes.dex
